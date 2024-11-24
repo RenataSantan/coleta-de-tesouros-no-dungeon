@@ -1,8 +1,9 @@
-**O Que foi  utilizado**
+## O Que foi  utilizado
+
 Módulo: readline (para interação com o usuário)
 Conceitos: Arrays, loops, condicionais, entrada e saída de dados
 
-## Objetivo:
+## Objetivo
 Este código tem como objetivo simular um jogo simples onde o usuário precisa descobrir em quais salas de um edifício há tesouros ou monstros. O programa solicita ao usuário que insira o número total de salas e, em seguida, verifica em quais dessas salas, de acordo com listas pré-definidas, estão escondidos tesouros ou monstros.
 
 
