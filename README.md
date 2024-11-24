@@ -14,7 +14,11 @@ A saída do programa consiste em uma lista de mensagens informando em quais sala
 
 Digite o número total de salas: 5
 	Tesouro na sala 2!
+
 	Monstro na sala 3!
+
 	Tesouro na sala 4!
+
 	Monstro na sala 6!
+
 	Tesouro na sala 7!
